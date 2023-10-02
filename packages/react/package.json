@@ -1,5 +1,5 @@
 {
-  "name": "@nightcreek-ui/tokens",
+  "name": "@nightcreek-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,6 +14,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@nightcreek-ui/tokens": "*",
     "@nightcreek-ui/ts-config": "*",
     "@nightcreek-ui/eslint-config": "*",
     "tsup": "^7.2.0",

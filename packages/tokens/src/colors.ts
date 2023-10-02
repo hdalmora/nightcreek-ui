@@ -15,4 +15,4 @@ export const colors = {
   nightCreek500: '#00875F',
   nightCreek700: '#015F43',
   nightCreek900: '#00291D',
-};
+}
