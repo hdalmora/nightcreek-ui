@@ -9,7 +9,7 @@ export function MultiStepForm({ size, currentStep = 1 }: MultiStepFormProps) {
   return (
     <MultiStepContainer>
       <Label>
-        Passo {currentStep} de {size}
+        Step {currentStep} of {size}
       </Label>
 
       <Steps css={{ '--steps-size': size }}>
