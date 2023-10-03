@@ -3,5 +3,12 @@
   "workspaces": [
     "packages/*"
   ],
-  "license": "MIT"
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^1.10.14"
+  }
 }
