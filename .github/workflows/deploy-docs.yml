@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: ${{ vars.TURBO_CACHE_TOKEN }}
+          TURBO_TOKEN: ${{ secrets.TURBO_CACHE_TOKEN }}
           TURBO_TEAM: nightcreek
 
       - name: Deploy storybook
