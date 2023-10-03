@@ -20,3 +20,5 @@ export function MultiStepForm({ size, currentStep = 1 }: MultiStepFormProps) {
     </MultiStepContainer>
   )
 }
+
+MultiStepForm.displayName = 'MultiStepForm'
