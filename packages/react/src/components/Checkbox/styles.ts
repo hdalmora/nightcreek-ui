@@ -30,7 +30,7 @@ const slideIn = keyframes({
     transform: 'scale(0)',
   },
   to: {
-    transform: 'scale(100&)',
+    transform: 'scale(100%)',
   },
 })
 
