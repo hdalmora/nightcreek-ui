@@ -1,5 +1,11 @@
 # @nightcreek-ui/react
 
+## 1.0.4
+
+### Patch Changes
+
+- CI Test
+
 ## 1.0.3
 
 ### Patch Changes
