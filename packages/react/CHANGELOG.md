@@ -1,5 +1,12 @@
 # @nightcreek-ui/react
 
+## 1.0.5
+
+### Patch Changes
+
+- 825c81c: CI Test PR
+- b35914c: TEST CI PR
+
 ## 1.0.4
 
 ### Patch Changes
