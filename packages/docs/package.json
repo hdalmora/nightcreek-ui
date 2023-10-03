@@ -10,7 +10,8 @@
     "build": "storybook build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
     "@nightcreek-ui/eslint-config": "*",
@@ -31,6 +32,7 @@
     "@storybook/blocks": "^7.4.5",
     "@storybook/react": "^7.4.5",
     "@storybook/react-vite": "^7.4.5",
+    "@storybook/storybook-deployer": "^2.8.16",
     "@storybook/testing-library": "^0.2.2",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
