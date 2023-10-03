@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/hdalmora.png',
     alt: 'Jon Doe',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
