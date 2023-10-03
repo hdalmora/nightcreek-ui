@@ -1,5 +1,12 @@
 # @nightcreek-ui/tokens
 
+## 1.0.4
+
+### Patch Changes
+
+- 825c81c: CI Test PR
+- b35914c: TEST CI PR
+
 ## 1.0.3
 
 ### Patch Changes
