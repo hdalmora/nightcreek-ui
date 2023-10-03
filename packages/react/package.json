@@ -6,7 +6,7 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "build": "tsup src/index.ts --format esm,cjs --dts --external react",
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
     "lint": "eslint src/**/*.ts* --fix"
   },
@@ -14,10 +14,17 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@nightcreek-ui/eslint-config": "*",
     "@nightcreek-ui/tokens": "*",
     "@nightcreek-ui/ts-config": "*",
-    "@nightcreek-ui/eslint-config": "*",
+    "@types/react": "^18.2.24",
+    "@types/react-dom": "^18.2.8",
+    "react": "^18.2.0",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.8",
+    "phosphor-react": "^1.4.1"
   }
 }

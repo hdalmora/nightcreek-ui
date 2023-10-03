@@ -11,8 +11,8 @@ export const colors = {
   gray800: '#202024',
   gray900: '#121214',
 
-  nightCreek300: '#00B37E',
-  nightCreek500: '#00875F',
-  nightCreek700: '#015F43',
-  nightCreek900: '#00291D',
+  nightcreek300: '#00B37E',
+  nightcreek500: '#00875F',
+  nightcreek700: '#015F43',
+  nightcreek900: '#00291D',
 }
