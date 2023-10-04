@@ -1,5 +1,11 @@
 # @nightcreek-ui/react
 
+## 1.0.6
+
+### Patch Changes
+
+- Fix library export and release commands
+
 ## 1.0.5
 
 ### Patch Changes
