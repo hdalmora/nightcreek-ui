@@ -52,11 +52,11 @@ The main goal is to provide a component library as a source of acessible, reusab
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Radix][Radix]][Radix-url]
-* [![TurboRepo][TurboRepo]][Turbo-url]
-* [![Stitches][Stitches]][Stitches-url]
+[![Next][Next.js]][Next-url]
+[![React][React.js]][React-url]
+[![Radix][Radix]][Radix-url]
+[![TurboRepo][TurboRepo]][Turbo-url]
+[![Stitches][Stitches]][Stitches-url]
 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,7 +66,6 @@ The main goal is to provide a component library as a source of acessible, reusab
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Instructions on setting up your project locally.
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
@@ -94,8 +93,6 @@ To get a local copy up and running follow these simple steps.
 ## Roadmap
 
 The v1 stable release includes the following components:
-
-# Components
 
 - [x] Text
 - [x] Heading
@@ -125,7 +122,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/hdalmora/nightcreek-ui
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hdalmora
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
